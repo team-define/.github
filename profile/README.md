@@ -17,6 +17,6 @@
 
 |Project Name|Service Type|Description|Repository
 |:---:|:---:|:---:|:---:|
-| **Syllabus** |Web| 순천대학교 강의계획표 검색 서비스 |[FE](https://github.com/team-define/syllabus-fe) / BE (WIP)<!-- [BE](https://github.com/team-define/syllabus-be) -->|
+| **Syllabus** |Web| 순천대학교 강의계획표 검색 서비스 | FE (WIP)<!-- [FE](https://github.com/team-define/syllabus-fe) --> / BE (WIP)<!-- [BE](https://github.com/team-define/syllabus-be) -->|
 
 

@@ -1,4 +1,4 @@
-[![Team Define](https://github.com/team-define/.github/blob/main/readme-art.png?raw=true)
+[![Team Define](https://github.com/team-define/.github/blob/main/readme-art.png?raw=true)](https://github.com/team-define)
 
 ### <p align="center" padding="0">순천대학교 컴퓨터공학과 Team Define</p>
 #### <p align="center">SCNU College of Computer Engineering Team Define</p>
